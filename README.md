@@ -9,6 +9,5 @@ I am Tinku</h2>
 <p align="center">I am currently pursuing my B.tech in ECE from MIT Manipal.
 </p>
 
-(https://github-readme-stats.vercel.app/api?username=tchtinku&show_icons=true&theme=vue-dark)
-
+![Tinku's Github Stats](https://github-readme-stats.vercel.app/api?username=tchtinku&show_icons=true&theme=vue-dark)
 
